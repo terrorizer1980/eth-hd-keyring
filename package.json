@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/MetaMask/eth-hd-keyring#readme",
   "dependencies": {
-    "bip39": "^2.2.0",
+    "bip39": "^2.6.0",
     "eth-sig-util": "^3.0.1",
     "eth-simple-keyring": "^4.2.0",
     "ethereumjs-util": "^7.0.9",
