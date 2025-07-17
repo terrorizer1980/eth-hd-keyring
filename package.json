@@ -30,7 +30,7 @@
     "eth-sig-util": "^3.0.1",
     "eth-simple-keyring": "^4.2.0",
     "ethereumjs-util": "^7.0.9",
-    "ethereumjs-wallet": "^1.0.1"
+    "ethereumjs-wallet": "^1.0.2"
   },
   "devDependencies": {
     "@metamask/eslint-config": "^4.0.0",
